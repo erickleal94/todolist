@@ -2,21 +2,10 @@ import React, {Component}   from 'react';
 import {
     Text, 
     View,
-    Modal,
-    TextInput
+    Modal
 }                           from 'react-native';
 import {
-    Container,
-    Header,
-    Right,
-    Body,
-    Title,
-    Left,
     Button,
-    Icon,
-    List,
-    ListItem,
-    CheckBox,
     Input
 }                           from 'native-base'
 
